@@ -1,0 +1,12 @@
+.container{
+    width: auto;
+    max-width:  85%;
+    font-size: 1.3vw;
+}
+th , td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px; 
+    /* border: 0.8px solid black; */
+}
